@@ -1,0 +1,8 @@
+
+{
+  "name": "Radio Hamanieh-Flash",
+  "description": "Application de radio en direct pour hamanieh-flash.net. Musique, infos et divertissement avec un design moderne bleu marine et or.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
